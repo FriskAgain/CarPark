@@ -1,0 +1,57 @@
+        
+{
+    "AU75D8": {
+        "model": "BMW i4",
+        "handicap": false,
+        "electric": true
+    },
+    "AU79D8": {
+        "model": "BMW i5",
+        "handicap": false,
+        "electric": true
+    },
+    "AU558" : {
+        "model": "BMW i8",
+        "handicap": true,
+        "electric": true
+    },
+    "AU664" : {
+        "model": "Toyta BZ3",
+        "handicap": false,
+        "electric": false
+    },
+    "AU889" : {
+        "model": "VW golf",
+        "handicap": false,
+        "electric": false
+    },
+    "AU742" : {
+        "model": "mercedes cla 250",
+        "handicap": false,
+        "electric": false
+    },
+    "AU852" : {
+        "model": "VW Turan",
+        "handicap": false,
+        "electric": false
+    },
+    "AU845" : {
+        "model": "toyota aygo",
+        "handicap": false,
+        "electric": false
+    },
+    "AU145" : {
+        "model": "VW id5",
+        "handicap": false,
+        "electric": true
+    },
+    "AU995" : {
+        "model": "Skoda fabia",
+        "handicap": false,
+        "electric": false
+    }
+    
+
+    
+}
+       

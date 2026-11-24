@@ -1,0 +1,9 @@
+for at compile, skriv:
+UC1:
+g++ UC1_Register.cpp -o UC1.exe -lcurl -I../external/json_dto
+
+UC2: 
+g++ UC2_Parking.cpp -o UC2.exe -lcurl -I../external/json_dto
+
+UC3: 
+g++ UC3_Exit.cpp -o UC3.exe -lcurl -I../external/json_dto
